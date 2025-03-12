@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#form {
+    margin-top: 150px;
+}
+
+
+h1{
+    margin-bottom: 30px;
+    text-align: left;
+}
+
+.form-label {
+    text-align: left;
+}
+
+.btn-primary{
+    background-color: rgb(0, 0, 0);
+    width: 40%;
+}
+
+.img_lado{
+    margin-top: ;
+    border: 3px solid rgb(0, 47, 255);
+}
+
+.form-control{
+    font-weight: bold;
+}
